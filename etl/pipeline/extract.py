@@ -29,7 +29,7 @@ def download_dataset(dataset_name:str, dataset_path:str):
 
 
 if __name__ == "__main__":
-    dataset_name = "ealaxi/banksim1"
+    dataset_name = "mlg-ulb/creditcardfraud"
     dataset_path = "../../data"
     download_dataset(dataset_name, dataset_path)
 
