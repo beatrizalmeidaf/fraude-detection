@@ -1,0 +1,11 @@
+[33mcommit 5b37d3463fea2946cf640b6423432f5f21c5e84a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Beatriz Almeida <beatrizalmeida.ufg@gmail.com>
+Date:   Sun Jan 12 19:45:43 2025 -0300
+
+    Adicionando suporte ao Git LFS para arquivos grandes
+
+[33mcommit 10eace2adceccdd5f3c75bd4344ffcec3181af56[m
+Author: Beatriz Almeida <beatrizalmeida.ufg@gmail.com>
+Date:   Sun Jan 12 19:43:42 2025 -0300
+
+    add docs
