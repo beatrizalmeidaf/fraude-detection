@@ -2,7 +2,6 @@
 
 Este projeto tem como objetivo a criação de um pipeline para detectar fraudes em transações de cartão de crédito, utilizando técnicas de aprendizado de máquina, análise de dados e tratamento de dados desbalanceados.
 
----
 
 ## **Visão Geral**
 
@@ -47,6 +46,6 @@ O projeto foca nos seguintes tópicos principais:
 - **Testing with Logistic Regression:** Avaliação do modelo de regressão logística.
 - **Neural Networks Testing:** Comparativo entre redes neurais aplicadas a dados com undersampling e oversampling.
 
----
+
 
 
