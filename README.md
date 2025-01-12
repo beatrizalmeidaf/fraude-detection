@@ -23,29 +23,24 @@ O projeto foca nos seguintes tópicos principais:
 - Tratamento de dados desbalanceados (Oversampling, Undersampling, SMOTE);
 - Métricas de avaliação de modelos.
 
----
 
 ## **Estrutura do Projeto**
 
-### **I. Compreensão dos Dados**
-- **Gather Sense of our data:** Investigação inicial para entender as características principais e a distribuição dos dados.
+### **1. Compreensão dos Dados**
+- Investigação inicial para entender as características e a distribuição do conjunto de dados.
 
-### **II. Pré-Processamento**
-- **Scaling and Distributing:** Normalização e distribuição dos dados para garantir maior eficácia nos modelos.
-- **Splitting the Data:** Divisão em conjuntos de treino, validação e teste.
+### **2. Pré-Processamento**
+- Normalização e ajuste dos dados para maior eficácia dos modelos;
+- Divisão dos dados em conjuntos de treino, validação e teste.
 
-### **III. Tratamento de Dados Desbalanceados**
-- **Distributing and Correlating:** Investigação da correlação entre variáveis e a distribuição das classes.
-- **Anomaly Detection:** Identificação de padrões fraudulentos.
-- **Dimensionality Reduction and Clustering:** Redução de dimensionalidade (t-SNE) para melhor visualização e clusterização.
-- **Classifiers:** Teste de diferentes classificadores para maximizar a performance.
-- **A Deeper Look into Logistic Regression:** Análise detalhada do modelo de regressão logística.
-- **Oversampling with SMOTE:** Aumentação de dados minoritários utilizando SMOTE.
+### **3. Tratamento de Dados Desbalanceados**
+- Análise da distribuição das classes e correlação entre variáveis;
+- Identificação de padrões fraudulentos;
+- Redução de dimensionalidade (t-SNE) e clusterização para melhor visualização;
+- Avaliação de diferentes classificadores;
+- Aplicação de técnicas de oversampling com SMOTE.
 
-### **IV. Testes e Avaliação**
-- **Testing with Logistic Regression:** Avaliação do modelo de regressão logística.
-- **Neural Networks Testing:** Comparativo entre redes neurais aplicadas a dados com undersampling e oversampling.
-
-
-
+### **4. Testes e Avaliação**
+- Teste e análise detalhada de modelos, como regressão logística e redes neurais;
+- Comparação do desempenho com diferentes estratégias de balanceamento dos dados.
 
