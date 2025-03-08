@@ -1,15 +1,15 @@
 # Detecção de Fraudes em Cartões de Crédito
 
-Este projeto tem como objetivo a criação de um pipeline para detectar fraudes em transações de cartão de crédito, utilizando técnicas de aprendizado de máquina, análise de dados e tratamento de dados desbalanceados.
+Esse projeto tem como objetivo a criação de um pipeline para detectar fraudes em transações de cartão de crédito, utilizando técnicas de aprendizado de máquina, análise de dados e tratamento de dados desbalanceados.
 
 
 ## **Visão Geral**
 
 ### **Base de Dados**
-Este projeto utiliza a base de dados disponível no Kaggle:
+Esse projeto utiliza a base de dados disponível no Kaggle:
 [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data).
 
-Esta base contém transações realizadas com cartões de crédito em setembro de 2013, em um conjunto altamente desbalanceado (99,8% de transações normais contra 0,2% de fraudulentas).
+Essa base contém transações realizadas com cartões de crédito em setembro de 2013, em um conjunto altamente desbalanceado (99,8% de transações normais contra 0,2% de fraudulentas).
 
 ### **Referências e Guias**
 - Notebook de referência: [Credit Fraud - Dealing with Imbalanced Datasets](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets).
